@@ -14,7 +14,7 @@
     "palette": "yellow",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Boutique",
             "url": "/store",
             "style": "link"
         },
